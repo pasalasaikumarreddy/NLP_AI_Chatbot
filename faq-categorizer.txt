@@ -1,0 +1,18 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy 
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+bank-inquiry     What's the bank name ? What's the name ? How much is price? How much it costs ? price cost money how much. how much?
+service-inquiry	 What are the services ? What's the benefits ? What does this bank do ? What is name of service ? What this service is all about? Can you tell me something about this bank ? What are the uses ? Tell me feature of bank. 
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it. bye. bbye.
+balance-inquiry    i want to know my balance. what is my balance? what is my account balance? what is my card balance? how much balance is present?
+transaction-problems     my transaction is declined even i had balance. my account is not working. 
+card-lost     i lost my card. i lost my credit card. i lost my debit card. my card is lost. i loose my card. my card is stolen by someone.i forgot my card at the atm. my credit card is not working. my debit card is not working.
+loan     i want a loan. what are the types of loans available. is there any interest crop loan gold loan house loan vehicle loan
+ATM-problems     my ATM not working.ATM expired how to apply a new one.how to renovate new ATM card.i have newly created an account how to apply for an ATM.for got ATM pin generate new ATM pin.
+unnecessary-questions     i love you.talk some thing.what about you.are you male/female. are you machine or human.
+bank-details    how many employees are working in abc bank.how many account holders are there.
+bank-timings    what are your bank timings.when will bank open.what are bank closing timings.ABC timings.
+bank-locations    where are abc bank branches located in india. where are abc branches in andra.where are abc branches in tamilnadu.
+creating-account     how to create account in abc bank.account creation.new account opening. creation of new account.
+bank-loans    how to apply for a loan.money loan.dwakara loans. what are new loans giving in ABC bank. loan details.
+education-loans    how to apply for education loans.i want a loan regarding education how to apply it for.education loans.
+job-loans    job loans.how to apply for jobloans.
